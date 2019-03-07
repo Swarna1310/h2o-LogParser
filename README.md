@@ -5,6 +5,4 @@ and error tracing
 
 Technologies used :
 
-Python Jupyter Notebook 
-Pandas library - Dataframes and data consolidation for plotting
-matplotlib - plotting various data sets
+Python Jupyter Notebook, Pandas library for Dataframes and data aggregation, matplotlib for plotting various data sets
